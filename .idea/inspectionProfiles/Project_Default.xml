@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.pegar_cotacoes" />
+          <option value="main.PC" />
+          <option value="pegarcotacoes.pegar_cotacoes.pegar_cotacoes" />
+          <option value="main.joagador" />
+          <option value="main.rakear" />
+          <option value="main.self" />
+          <option value="main.vitorias" />
+          <option value="main.jogador" />
+          <option value="int.*" />
+          <option value="builtins.id.*" />
+          <option value="coletardados.coletaDados.nome" />
+          <option value="coletardados.coletaDados.vitorias" />
+          <option value="list.apend" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
